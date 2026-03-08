@@ -1,0 +1,16 @@
+数据读取完成
+       name  age
+0     Alice   25
+1       Bob   30
+2   Charlie   35
+3     David   28
+4     Alice   25
+5       Bob   30
+6   Charlie   35
+7     David   28
+8     Alice   25
+9       Bob   30
+10  Charlie   35
+11    David   28
+表格有 12 行，2 列
+总人数：12人
